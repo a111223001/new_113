@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "EditTextDemo"
 include(":app")
- 
+include(":app")
